@@ -2,7 +2,7 @@
 Mathematical models and software for analyzing the tonality of comments on social network X
 
 # App interface
-![My Image](image/interface.png)
+![Alt text](https://github.com/artempylypchuk/Tonality_of_comments/blob/main/image/interface.jpg)
 
 # Result of testing 
-![My Image](image/result_of_pred.png)
+![Alt text](https://github.com/artempylypchuk/Tonality_of_comments/blob/main/image/result_of_pred.jpg)
